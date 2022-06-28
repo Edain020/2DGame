@@ -4,6 +4,38 @@
 ・コアブロックからお金が生成されて、そのお金を使ってユニットの生成や武器や防具の変更を行う
 ・敵は画面外から攻めてくる
 
+すること
+・A*を使って経路探索を実装
+・ユニットの配置を実装
+・ユニットの選択を実装
+・ユニットの複数選択を実装
+
+
+使用アセット
+・マップ
+Pixel Art Top Down - Basic : https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605#description
+・キャラクター
+Knight Sprite Sheet (Free) : https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897#description
+
+使用素材
+・モンスター
+ヌー＠ドット絵素材置き場 : http://damagedgold.wp.xdomain.jp/2018/09/09/pixelqvm32/
+
+使用ソフト
+・画像作成
+Inkscape
+・画像編集
+GIMP
 
 参考サイト
-Unity入門の森 : https://3dunity.org/
+・Singleton
+https://tsubakit1.hateblo.jp/entry/20121106/1352213362
+・ScriptTemplate
+https://kazupon.org/unity-scripttemplates-script/
+・Tilemap
+https://qiita.com/yasyoku_8d9h/items/c4c8f95847f839933001
+https://walkable-2020.com/unity/tilema-script/
+https://i-school.memo.wiki/d/%A3%B2%A3%C4%A5%BF%A5%EF%A1%BC%A5%C7%A5%A3%A5%D5%A5%A7%A5%F3%A5%B9%A1%A1%BC%EA%BD%E7%A3%B6
+https://baba-s.hatenablog.com/entry/2018/04/08/131500
+・LineRenderer
+https://qiita.com/otuki0191/items/0be096c527d542d796cc
